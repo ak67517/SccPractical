@@ -1,2 +1,4 @@
 # SccPractical
-This is for SCC practical purpose
+This is for SCC practical purpose.
+This line is added after cloning from the repo for Practical 5
+using Git in my own workstation.
